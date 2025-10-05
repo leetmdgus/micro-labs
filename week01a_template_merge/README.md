@@ -1,4 +1,4 @@
-# 🧪 Week01a — Template Merge (DOCX 자동 치환)
+# 🧪 Week01a — Template Merge (DOCX / TXT / MD 자동 치환)
 
 > CSV 데이터를 불러와 DOCX / TXT / MD 템플릿의 자리표시자를 자동으로 채워주는 문서 자동화 실험  
 > *(DocxTemplate + Pandas + Jinja2 기반)*
