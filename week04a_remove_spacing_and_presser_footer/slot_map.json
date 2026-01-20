@@ -1,0 +1,282 @@
+{
+  "client_name": [
+    {
+      "slot_name": "client_name",
+      "xml_path": "Contents/section0.xml",
+      "field_begin_id": "2062456831",
+      "field_id": "627272811",
+      "row_addr": 3,
+      "col_addr": 1
+    }
+  ],
+  "care_level": [
+    {
+      "slot_name": "care_level",
+      "xml_path": "Contents/section0.xml",
+      "field_begin_id": "2062456832",
+      "field_id": "627272811",
+      "row_addr": 3,
+      "col_addr": 5
+    }
+  ],
+  "care_number": [
+    {
+      "slot_name": "care_number",
+      "xml_path": "Contents/section0.xml",
+      "field_begin_id": "2062456833",
+      "field_id": "627272811",
+      "row_addr": 3,
+      "col_addr": 8
+    }
+  ],
+  "IMG_client_sign": [
+    {
+      "slot_name": "IMG_client_sign",
+      "xml_path": "Contents/section0.xml",
+      "field_begin_id": "2062456834",
+      "field_id": "627272811",
+      "row_addr": 3,
+      "col_addr": 10
+    }
+  ],
+  "IMG_manager_sign": [
+    {
+      "slot_name": "IMG_manager_sign",
+      "xml_path": "Contents/section0.xml",
+      "field_begin_id": "2062456839",
+      "field_id": "627272811",
+      "row_addr": 4,
+      "col_addr": 10
+    }
+  ],
+  "need_1": [
+    {
+      "slot_name": "need_1",
+      "xml_path": "Contents/section0.xml",
+      "field_begin_id": "2062456844",
+      "field_id": "627272811",
+      "row_addr": 6,
+      "col_addr": 6
+    }
+  ],
+  "need_2": [
+    {
+      "slot_name": "need_2",
+      "xml_path": "Contents/section0.xml",
+      "field_begin_id": "2062456845",
+      "field_id": "627272811",
+      "row_addr": 7,
+      "col_addr": 6
+    }
+  ],
+  "need_3": [
+    {
+      "slot_name": "need_3",
+      "xml_path": "Contents/section0.xml",
+      "field_begin_id": "2062456852",
+      "field_id": "627272811",
+      "row_addr": 8,
+      "col_addr": 6
+    }
+  ],
+  "need_4": [
+    {
+      "slot_name": "need_4",
+      "xml_path": "Contents/section0.xml",
+      "field_begin_id": "2062456853",
+      "field_id": "627272811",
+      "row_addr": 9,
+      "col_addr": 6
+    }
+  ],
+  "need_5": [
+    {
+      "slot_name": "need_5",
+      "xml_path": "Contents/section0.xml",
+      "field_begin_id": "2062456856",
+      "field_id": "627272811",
+      "row_addr": 10,
+      "col_addr": 6
+    }
+  ],
+  "need_6": [
+    {
+      "slot_name": "need_6",
+      "xml_path": "Contents/section0.xml",
+      "field_begin_id": "2062456857",
+      "field_id": "627272811",
+      "row_addr": 11,
+      "col_addr": 6
+    }
+  ],
+  "need_total": [
+    {
+      "slot_name": "need_total",
+      "xml_path": "Contents/section0.xml",
+      "field_begin_id": "2062456858",
+      "field_id": "627272811",
+      "row_addr": 12,
+      "col_addr": 6
+    }
+  ],
+  "plan_goal": [
+    {
+      "slot_name": "plan_goal",
+      "xml_path": "Contents/section0.xml",
+      "field_begin_id": "2062456859",
+      "field_id": "627272811",
+      "row_addr": 13,
+      "col_addr": 6
+    }
+  ],
+  "plan_content": [
+    {
+      "slot_name": "plan_content",
+      "xml_path": "Contents/section0.xml",
+      "field_begin_id": "2062514971",
+      "field_id": "627272811",
+      "row_addr": 14,
+      "col_addr": 6
+    }
+  ],
+  "plan_method": [
+    {
+      "slot_name": "plan_method",
+      "xml_path": "Contents/section0.xml",
+      "field_begin_id": "2062514972",
+      "field_id": "627272811",
+      "row_addr": 15,
+      "col_addr": 6
+    }
+  ],
+  "cog_content": [
+    {
+      "slot_name": "cog_content",
+      "xml_path": "Contents/section0.xml",
+      "field_begin_id": "2062514973",
+      "field_id": "627272811",
+      "row_addr": 16,
+      "col_addr": 6
+    }
+  ],
+  "cog_method": [
+    {
+      "slot_name": "cog_method",
+      "xml_path": "Contents/section0.xml",
+      "field_begin_id": "2062514974",
+      "field_id": "627272811",
+      "row_addr": 17,
+      "col_addr": 6
+    }
+  ],
+  "phys_content": [
+    {
+      "slot_name": "phys_content",
+      "xml_path": "Contents/section0.xml",
+      "field_begin_id": "2062514975",
+      "field_id": "627272811",
+      "row_addr": 18,
+      "col_addr": 6
+    }
+  ],
+  "phys_method": [
+    {
+      "slot_name": "phys_method",
+      "xml_path": "Contents/section0.xml",
+      "field_begin_id": "2062514976",
+      "field_id": "627272811",
+      "row_addr": 19,
+      "col_addr": 6
+    }
+  ],
+  "guardian_consult": [
+    {
+      "slot_name": "guardian_consult",
+      "xml_path": "Contents/section0.xml",
+      "field_begin_id": "2062514977",
+      "field_id": "627272811",
+      "row_addr": 20,
+      "col_addr": 6
+    }
+  ],
+  "confirm_content": [
+    {
+      "slot_name": "confirm_content",
+      "xml_path": "Contents/section0.xml",
+      "field_begin_id": "2062514978",
+      "field_id": "627272811",
+      "row_addr": 1,
+      "col_addr": 2
+    }
+  ],
+  "confirm_action": [
+    {
+      "slot_name": "confirm_action",
+      "xml_path": "Contents/section0.xml",
+      "field_begin_id": "2062514979",
+      "field_id": "627272811",
+      "row_addr": 2,
+      "col_addr": 2
+    }
+  ],
+  "IMG_provider_sign": [
+    {
+      "slot_name": "IMG_provider_sign",
+      "xml_path": "Contents/section0.xml",
+      "field_begin_id": "2062514980",
+      "field_id": "627272811",
+      "row_addr": 3,
+      "col_addr": 2
+    }
+  ],
+  "visit_datetime": [
+    {
+      "slot_name": "visit_datetime",
+      "xml_path": "Contents/section0.xml",
+      "field_begin_id": "2062514982",
+      "field_id": "627272811",
+      "row_addr": 4,
+      "col_addr": 2
+    }
+  ],
+  "visit_location": [
+    {
+      "slot_name": "visit_location",
+      "xml_path": "Contents/section0.xml",
+      "field_begin_id": "2062514983",
+      "field_id": "627272811",
+      "row_addr": 5,
+      "col_addr": 2
+    }
+  ],
+  "visit_status": [
+    {
+      "slot_name": "visit_status",
+      "xml_path": "Contents/section0.xml",
+      "field_begin_id": "2062514984",
+      "field_id": "627272811",
+      "row_addr": 6,
+      "col_addr": 2
+    }
+  ],
+  "visit_fail_reason": [
+    {
+      "slot_name": "visit_fail_reason",
+      "xml_path": "Contents/section0.xml",
+      "field_begin_id": "2062514985",
+      "field_id": "627272811",
+      "row_addr": 7,
+      "col_addr": 2
+    }
+  ],
+  "IMG_visitor_sign": [
+    {
+      "slot_name": "IMG_visitor_sign",
+      "xml_path": "Contents/section0.xml",
+      "field_begin_id": "2062514986",
+      "field_id": "627272811",
+      "row_addr": 8,
+      "col_addr": 2
+    }
+  ]
+}

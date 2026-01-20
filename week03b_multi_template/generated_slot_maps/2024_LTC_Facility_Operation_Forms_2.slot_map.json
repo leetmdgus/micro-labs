@@ -1,0 +1,22 @@
+{
+  "INPUT_DATE": [
+    {
+      "slot_name": "INPUT_DATE",
+      "xml_path": "Contents/section0.xml",
+      "field_begin_id": "2060136280",
+      "field_id": "627272811",
+      "row_addr": 1,
+      "col_addr": 1
+    }
+  ],
+  "SLOT_DATE": [
+    {
+      "slot_name": "SLOT_DATE",
+      "xml_path": "Contents/section0.xml",
+      "field_begin_id": "2060136282",
+      "field_id": "627272811",
+      "row_addr": 1,
+      "col_addr": 3
+    }
+  ]
+}

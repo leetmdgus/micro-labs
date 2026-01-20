@@ -1,0 +1,60 @@
+{
+  "INPUT_DATE": [
+    {
+      "slot_name": "INPUT_DATE",
+      "xml_path": "Contents/section0.xml",
+      "field_begin_id": "2060136280",
+      "field_id": "627272811",
+      "row_addr": 1,
+      "col_addr": 1
+    }
+  ],
+  "SLOT_DATE": [
+    {
+      "slot_name": "SLOT_DATE",
+      "xml_path": "Contents/section0.xml",
+      "field_begin_id": "2060136282",
+      "field_id": "627272811",
+      "row_addr": 1,
+      "col_addr": 3
+    },
+    {
+      "slot_name": "SLOT_DATE",
+      "xml_path": "Contents/section0.xml",
+      "field_begin_id": "2061911629",
+      "field_id": "627272811",
+      "row_addr": 5,
+      "col_addr": 1
+    }
+  ],
+  "IMG_PLACE": [
+    {
+      "slot_name": "IMG_PLACE",
+      "xml_path": "Contents/section0.xml",
+      "field_begin_id": "2061911626",
+      "field_id": "627272811",
+      "row_addr": 2,
+      "col_addr": 1
+    }
+  ],
+  "IMG_PERSON": [
+    {
+      "slot_name": "IMG_PERSON",
+      "xml_path": "Contents/section0.xml",
+      "field_begin_id": "2061911635",
+      "field_id": "627272811",
+      "row_addr": 2,
+      "col_addr": 5
+    }
+  ],
+  "SLOT_SUBJECT": [
+    {
+      "slot_name": "SLOT_SUBJECT",
+      "xml_path": "Contents/section0.xml",
+      "field_begin_id": "2061911627",
+      "field_id": "627272811",
+      "row_addr": 3,
+      "col_addr": 1
+    }
+  ]
+}
